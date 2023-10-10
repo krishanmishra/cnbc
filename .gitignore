@@ -1,0 +1,32 @@
+# IDE and Build Tool Files
+.idea/
+.classpath
+.project
+.settings/
+.factorypath
+.target/
+
+# Logs and Reports
+*.log
+*.html
+
+# Temporary Files
+.DS_Store
+*.tmp
+*.swp
+
+# Dependency and Configuration Files
+*.iml
+.idea/
+.settings/
+.project
+.factorypath
+
+# WebDriver Executables (if included)
+chromedriver
+geckodriver
+
+# Test Output (adjust as needed)
+/screenshot/
+/test-output/
+/target/
